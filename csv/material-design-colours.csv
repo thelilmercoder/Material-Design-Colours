@@ -1,0 +1,273 @@
+Red,#f54337,red
+Red 50,#ffebed,red-50
+Red 100,#ffcdd2,red-100
+Red 200,#ef999a,red-200
+Red 300,#e57373,red-300
+Red 400,#ee534f,red-400
+Red 500,#f54337,red-500
+Red 600,#e53935,red-600
+Red 700,#d32f2e,red-700
+Red 800,#c62827,red-800
+Red 900,#b71b1c,red-900
+Red A100,#ff8a80,red-a100
+Red A200,#ff5253,red-a200
+Red A400,#ff1844,red-a400
+Red A700,#d60000,red-a700
+Pink,#ea1e63,pink
+Pink 50,#fbe4ec,pink-50
+Pink 100,#f9bbd0,pink-100
+Pink 200,#f48fb1,pink-200
+Pink 300,#f06292,pink-300
+Pink 400,#ec407a,pink-400
+Pink 500,#ea1e63,pink-500
+Pink 600,#d81a60,pink-600
+Pink 700,#c3185c,pink-700
+Pink 800,#ad1457,pink-800
+Pink 900,#890e4f,pink-900
+Pink A100,#ff80ab,pink-a100
+Pink A200,#ff4181,pink-a200
+Pink A400,#f40057,pink-a400
+Pink A700,#c41162,pink-a700
+Purple,#9c28b1,purple
+Purple 50,#f3e5f6,purple-50
+Purple 100,#e1bee8,purple-100
+Purple 200,#cf93d9,purple-200
+Purple 300,#ba69c8,purple-300
+Purple 400,#ab46bc,purple-400
+Purple 500,#9c28b1,purple-500
+Purple 600,#8e24aa,purple-600
+Purple 700,#7b20a3,purple-700
+Purple 800,#6a1b9a,purple-800
+Purple 900,#4a148c,purple-900
+Purple A100,#ea80fc,purple-a100
+Purple A200,#e040fc,purple-a200
+Purple A400,#d500fa,purple-a400
+Purple A700,#aa00ff,purple-a700
+Deep Purple,#673bb7,deep-purple
+Deep Purple 50,#eee7f7,deep-purple-50
+Deep Purple 100,#d2c4e8,deep-purple-100
+Deep Purple 200,#b39ddb,deep-purple-200
+Deep Purple 300,#9675ce,deep-purple-300
+Deep Purple 400,#7e57c2,deep-purple-400
+Deep Purple 500,#673bb7,deep-purple-500
+Deep Purple 600,#5d35b0,deep-purple-600
+Deep Purple 700,#512da7,deep-purple-700
+Deep Purple 800,#4527a1,deep-purple-800
+Deep Purple 900,#301b92,deep-purple-900
+Deep Purple A100,#b388fe,deep-purple-a100
+Deep Purple A200,#7c4dff,deep-purple-a200
+Deep Purple A400,#661fff,deep-purple-a400
+Deep Purple A700,#6200eb,deep-purple-a700
+Indigo,#3f51b5,indigo
+Indigo 50,#e8eaf6,indigo-50
+Indigo 100,#c5cae8,indigo-100
+Indigo 200,#9ea8db,indigo-200
+Indigo 300,#7986cc,indigo-300
+Indigo 400,#5c6bc0,indigo-400
+Indigo 500,#3f51b5,indigo-500
+Indigo 600,#3949ab,indigo-600
+Indigo 700,#313fa0,indigo-700
+Indigo 800,#283593,indigo-800
+Indigo 900,#1a237e,indigo-900
+Indigo A100,#8c9eff,indigo-a100
+Indigo A200,#536dfe,indigo-a200
+Indigo A400,#3d5afe,indigo-a400
+Indigo A700,#304fff,indigo-a700
+Blue,#2196f3,blue
+Blue 50,#e4f2fd,blue-50
+Blue 100,#bbdefa,blue-100
+Blue 200,#90caf8,blue-200
+Blue 300,0,blue-300
+Blue 400,0,blue-400
+Blue 500,#2196f3,blue-500
+Blue 600,#1d89e4,blue-600
+Blue 700,#1976d3,blue-700
+Blue 800,#1665c1,blue-800
+Blue 900,#0e47a1,blue-900
+Blue A100,#82b1ff,blue-a100
+Blue A200,#4489fe,blue-a200
+Blue A400,#2879ff,blue-a400
+Blue A700,#2a62ff,blue-a700
+Light Blue,#03a9f5,light-blue
+Light Blue 50,#e1f5fe,light-blue-50
+Light Blue 100,#bbdefa,light-blue-100
+Light Blue 200,#81d5fa,light-blue-200
+Light Blue 300,#4fc2f8,light-blue-300
+Light Blue 400,#28b6f6,light-blue-400
+Light Blue 500,#03a9f5,light-blue-500
+Light Blue 600,#039be6,light-blue-600
+Light Blue 700,#0288d1,light-blue-700
+Light Blue 800,#0277bd,light-blue-800
+Light Blue 900,#02569c,light-blue-900
+Light Blue A100,#80d8fe,light-blue-a100
+Light Blue A200,#3fc4ff,light-blue-a200
+Light Blue A400,#00affe,light-blue-a400
+Light Blue A700,#0091ea,light-blue-a700
+Cyan,#00bcd5,cyan
+Cyan 50,#e0f8fa,cyan-50
+Cyan 100,#b2ebf2,cyan-100
+Cyan 200,#80deea,cyan-200
+Cyan 300,#4dd0e2,cyan-300
+Cyan 400,#26c7db,cyan-400
+Cyan 500,#00bcd5,cyan-500
+Cyan 600,#00acc2,cyan-600
+Cyan 700,#0097a8,cyan-700
+Cyan 800,#00828f,cyan-800
+Cyan 900,#016064,cyan-900
+Cyan A100,#84feff,cyan-a100
+Cyan A200,#19ffff,cyan-a200
+Cyan A400,#00e6ff,cyan-a400
+Cyan A700,#00b8d4,cyan-a700
+Teal,#009788,teal
+Teal 50,#e0f2f2,teal-50
+Teal 100,#b2dfdc,teal-100
+Teal 200,#80cbc4,teal-200
+Teal 300,#4db7ad,teal-300
+Teal 400,#26a59a,teal-400
+Teal 500,#009788,teal-500
+Teal 600,#01897b,teal-600
+Teal 700,#00796a,teal-700
+Teal 800,#00695b,teal-800
+Teal 900,#014d41,teal-900
+Teal A100,#a7feeb,teal-a100
+Teal A200,#64feda,teal-a200
+Teal A400,#1de9b6,teal-a400
+Teal A700,#01bfa5,teal-a700
+Green,#4cb050,green
+Green 50,#e9f5e9,green-50
+Green 100,#c8e6ca,green-100
+Green 200,#a5d6a7,green-200
+Green 300,#81c683,green-300
+Green 400,#66bb6a,green-400
+Green 500,#4cb050,green-500
+Green 600,#43a047,green-600
+Green 700,#398e3d,green-700
+Green 800,#2f7d32,green-800
+Green 900,#1c5e20,green-900
+Green A100,#b9f6ca,green-a100
+Green A200,#69f0ae,green-a200
+Green A400,#00e777,green-a400
+Green A700,#01c853,green-a700
+Light Green,#8cc34b,light-green
+Light Green 50,#f1f7e9,light-green-50
+Light Green 100,#ddedc8,light-green-100
+Light Green 200,#c5e1a6,light-green-200
+Light Green 300,#aed582,light-green-300
+Light Green 400,#9ccc66,light-green-400
+Light Green 500,#8cc34b,light-green-500
+Light Green 600,#7db343,light-green-600
+Light Green 700,#689f39,light-green-700
+Light Green 800,#558a2e,light-green-800
+Light Green 900,#33691e,light-green-900
+Light Green A100,#cdff90,light-green-a100
+Light Green A200,#b2ff59,light-green-a200
+Light Green A400,#76ff02,light-green-a400
+Light Green A700,#64dd16,light-green-a700
+Lime,#cddc39,lime
+Lime 50,#f9fbe6,lime-50
+Lime 100,#f0f4c2,lime-100
+Lime 200,#e6ee9b,lime-200
+Lime 300,#dde776,lime-300
+Lime 400,#d4e056,lime-400
+Lime 500,#cddc39,lime-500
+Lime 600,#c0ca33,lime-600
+Lime 700,#b0b42b,lime-700
+Lime 800,#9e9e24,lime-800
+Lime 900,#817716,lime-900
+Lime A100,#f4fe81,lime-a100
+Lime A200,#eeff41,lime-a200
+Lime A400,#c6ff00,lime-a400
+Lime A700,#aeea00,lime-a700
+Yellow,#ffeb3c,yellow
+Yellow 50,#fffde8,yellow-50
+Yellow 100,#fff9c5,yellow-100
+Yellow 200,#fff59c,yellow-200
+Yellow 300,#fff176,yellow-300
+Yellow 400,#ffee58,yellow-400
+Yellow 500,#ffeb3c,yellow-500
+Yellow 600,#fed835,yellow-600
+Yellow 700,#fcc02e,yellow-700
+Yellow 800,#f9a825,yellow-800
+Yellow 900,#f57e16,yellow-900
+Yellow A100,#ffff8d,yellow-a100
+Yellow A200,0,yellow-a200
+Yellow A400,0,yellow-a400
+Yellow A700,#ffd600,yellow-a700
+Amber,#fec107,amber
+Amber 50,#fff9e1,amber-50
+Amber 100,#ffecb2,amber-100
+Amber 200,#ffecb2,amber-200
+Amber 300,#ffd54f,amber-300
+Amber 400,#ffc928,amber-400
+Amber 500,#fec107,amber-500
+Amber 600,#ffb200,amber-600
+Amber 700,#ff9f00,amber-700
+Amber 800,#ff8e01,amber-800
+Amber 900,#ff6f00,amber-900
+Amber A100,#fee580,amber-a100
+Amber A200,#ffd741,amber-a200
+Amber A400,#ffc501,amber-a400
+Amber A700,#ffab00,amber-a700
+Orange,#ff9801,orange
+Orange 50,#fff2e1,orange-50
+Orange 100,#ffe0b2,orange-100
+Orange 200,#ffcc80,orange-200
+Orange 300,#ffb74e,orange-300
+Orange 400,#ffa727,orange-400
+Orange 500,#ff9801,orange-500
+Orange 600,#fb8c00,orange-600
+Orange 700,#f67c01,orange-700
+Orange 800,#ef6c00,orange-800
+Orange 900,#e65100,orange-900
+Orange A100,#ffd181,orange-a100
+Orange A200,#ffab40,orange-a200
+Orange A400,#ff9000,orange-a400
+Orange A700,#ff6d00,orange-a700
+Deep Orange,#fe5722,deep-orange
+Deep Orange 50,#fbe9e7,deep-orange-50
+Deep Orange 100,#ffccbb,deep-orange-100
+Deep Orange 200,#ffab91,deep-orange-200
+Deep Orange 300,#ff8a66,deep-orange-300
+Deep Orange 400,#ff7143,deep-orange-400
+Deep Orange 500,#fe5722,deep-orange-500
+Deep Orange 600,#f5511e,deep-orange-600
+Deep Orange 700,#e64a19,deep-orange-700
+Deep Orange 800,#d74315,deep-orange-800
+Deep Orange 900,#bf360c,deep-orange-900
+Deep Orange A100,#ff9e81,deep-orange-a100
+Deep Orange A200,#ff6e41,deep-orange-a200
+Deep Orange A400,#ff3d00,deep-orange-a400
+Deep Orange A700,#dd2c00,deep-orange-a700
+Brown,#795547,brown
+Brown 50,#efebe8,brown-50
+Brown 100,#d7ccc8,brown-100
+Brown 200,#bdaaa4,brown-200
+Brown 300,#a1897f,brown-300
+Brown 400,#8c6e63,brown-400
+Brown 500,#795547,brown-500
+Brown 600,#6d4d42,brown-600
+Brown 700,#5d4038,brown-700
+Brown 800,#4f332f,brown-800
+Brown 900,#3e2622,brown-900
+Grey,#9e9e9e,grey
+Grey 50,#fafafa,grey-50
+Grey 100,#f5f5f5,grey-100
+Grey 200,#eeeeee,grey-200
+Grey 300,#e0e0e0,grey-300
+Grey 400,#bdbdbd,grey-400
+Grey 500,#9e9e9e,grey-500
+Grey 600,#757575,grey-600
+Grey 700,#616161,grey-700
+Grey 800,#424242,grey-800
+Grey 900,#212121,grey-900
+Blue Grey,#607d8b,blue-grey
+Blue Grey 50,#ebeff2,blue-grey-50
+Blue Grey 100,#cfd8dd,blue-grey-100
+Blue Grey 200,#b0bfc6,blue-grey-200
+Blue Grey 300,#90a4ad,blue-grey-300
+Blue Grey 400,#78909c,blue-grey-400
+Blue Grey 500,#607d8b,blue-grey-500
+Blue Grey 600,#546f7a,blue-grey-600
+Blue Grey 700,#465a65,blue-grey-700
+Blue Grey 800,#36474f,blue-grey-800
+Blue Grey 900,#273238,blue-grey-900
